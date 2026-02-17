@@ -1,4 +1,4 @@
-# Yosh-s-Machine
+# Yosh-Machine
 Yosh's Machine
 
 This is type of computer with value range 0 to ∞ and there temporary memory and input device and output device, if you command/send the value to the temporary memory and then you command/accept using input device or others it will send to the where device that are determined by the size of value you send; and can Increment and decrement the temporary memory and or other methods; so the temporary memory is empty for ready other value, and also more explanation; only 1 value per temporary memory, and also temporary memory have no fixed maximum size and also expandable so if you send value bigger than the temporary memory capacity it just the biggest value and also if you send more value if it's the temporary memory already have value inside it can't, it expandable may use 3d printer or other, and recommendations like use automation or connecting with others, this is looks like multiple buttons but to click where the button is determined by how big the value.
